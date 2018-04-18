@@ -16,7 +16,7 @@ twitter.printTweets(tweets)
 
 ## Function list:
 ###### followByHashtag
-follow users by hashtag statuses, you can set minimum favori count 
+follow users by hashtag statuses, you can set minimum favorite count 
 ###### followFollowersFollowing
  follow some users followers 
 ###### removeNotFriends
@@ -44,7 +44,7 @@ follow users by hashtag statuses, you can set minimum favori count
 ###### sendDM
   sending Direct Messages 
 ###### deleteAllTweets
-  delet all of your tweets 
+  delete all of your tweets 
 ###### confirmAllRequests
   confirm all of your follow request if your account is private 
 ###### printTweets
